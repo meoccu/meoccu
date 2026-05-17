@@ -38,6 +38,7 @@ Hi there 👋
   <!-- 国内稳定 activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meoccu&theme=github-light&area=true&hide_border=true" width="90%" alt="activity graph" />
 </div>
+
 ---
 
 <div align="center">
@@ -60,6 +61,9 @@ Hi there 👋
   <!-- 替换为国内可用访客统计，解决 glitch.me 被墙 -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meoccu.github.profile" alt="visitor badge" />
 </p>
+
+---
+
 <p align="center">
   <a href="https://twitter.com/meoccu_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
