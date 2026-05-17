@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=🐱+O+Meow+·+meoccu;console.log('Hello,+world!');npm+install+cool+profile;✨+Make+GitHub+pretty+again" alt="Typing SVG" />
-</p>
+  <img src="https://typingsvg.vercel.app/api/svg?backgroundOpacity=0.16&border=false&lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22fontSize%22%3A23%2C%22typingSpeed%22%3A0.06666666666666667%2C%22deleteSpeed%22%3A0.05%7D%5D" alt="Typing SVG">
+</p >
 
 <p align="center">
   <img src="https://imgnation.oss-cn-hongkong.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-02%20220937.png" width="100" style="border-radius: 50%;" alt="avatar" />
