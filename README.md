@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="[[https://avatars.githubusercontent.com/u/meoccu?v=4](https://imgnation.oss-cn-hongkong.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-02%20220937.png)](https://imgnation.oss-cn-hongkong.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-02%20220937.png)" width="100" style="border-radius: 50%;" alt="avatar" />
+  <img src="https://imgnation.oss-cn-hongkong.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-02%20220937.png" width="100" style="border-radius: 50%;" alt="avatar" />
   <br />
   <strong>🐾 O Meow · @meoccu</strong><br />
   热爱优雅的代码与设计，追求实用与美感的平衡。<br />
