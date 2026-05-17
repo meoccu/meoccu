@@ -1,10 +1,13 @@
 ## Hi there 👋
+Hi there 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=🐱+O+Meow+·+meoccu;console.log('Hello,+world!');npm+install+cool+profile;✨+Make+GitHub+pretty+again" alt="Typing SVG" />
 </p>
 
+<!-- 这里替换成你自己真实的头像链接！！！ -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="100" style="border-radius: 50%;" alt="avatar" />
+  <img src="https://avatars.githubusercontent.com/u/【你的真实GitHub数字ID】?v=4" width="100" style="border-radius: 50%;" alt="avatar" />
   <br />
   <strong>🐾 O Meow · @meoccu</strong><br />
   热爱优雅的代码与设计，追求实用与美感的平衡。<br />
@@ -16,13 +19,15 @@
 ### 📊 GitHub 数据仪表板
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meoccu&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff00&icon_color=ef4444" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meoccu&layout=compact&hide_border=true&langs_count=8&theme=vue" />
+  <!-- 国内可访问的 stats 镜像 -->
+  <img height="180em" src="https://stats-github.vercel.app/api?username=meoccu&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff00&icon_color=ef4444" />
+  <img height="180em" src="https://stats-github.vercel.app/api/top-langs/?username=meoccu&layout=compact&hide_border=true&langs_count=8&theme=vue" />
 </div>
 
 <div align="center">
+  <!-- 替换为稳定国内可用的 Metrics & Streak -->
   <img src="https://metrics.lecoq.io/meoccu?template=classic&config.timezone=Asia%2FShanghai" alt="Metrics" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meoccu&theme=ayu-mirage&hide_border=true" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=meoccu&theme=ayu-mirage&hide_border=true" alt="Streak Stats" width="49%" />
 </div>
 
 ---
@@ -38,7 +43,8 @@
 ### 📈 贡献热力图
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=meoccu&theme=github-light&area=true&hide_border=true" width="90%" alt="activity graph" />
+  <!-- 国内稳定 activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meoccu&theme=github-light&area=true&hide_border=true" width="90%" alt="activity graph" />
 </div>
 
 ---
@@ -61,7 +67,8 @@
 ### 👀 访客计数
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=meoccu.github.profile" alt="visitor badge" />
+  <!-- 替换为国内可用访客统计，解决 glitch.me 被墙 -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=meoccu.github.profile" alt="visitor badge" />
 </p>
 
 ---
