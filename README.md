@@ -32,24 +32,19 @@ Hi there 👋
 
 ---
 
-### 🏆 GitHub 成就奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meoccu&theme=onedark&no-frame=true&row=2&column=3" alt="trophy" />
-</div>
-
----
-
 ### 📈 贡献热力图
 
 <div align="center">
   <!-- 国内稳定 activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meoccu&theme=github-light&area=true&hide_border=true" width="90%" alt="activity graph" />
 </div>
-
 ---
 
-### 🧰 技术栈 & 工具箱
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meoccu&theme=onedark&no-frame=true&row=2&column=3" alt="trophy" />
+</div>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
