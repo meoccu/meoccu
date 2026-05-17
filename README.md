@@ -61,20 +61,10 @@ Hi there 👋
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
----
-
-### 👀 访客计数
-
 <p align="center">
   <!-- 替换为国内可用访客统计，解决 glitch.me 被墙 -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meoccu.github.profile" alt="visitor badge" />
 </p>
-
----
-
-### 🌐 社交 & 动态
-
 <p align="center">
   <a href="https://twitter.com/meoccu_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
