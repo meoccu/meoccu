@@ -25,9 +25,8 @@ Hi there 👋
 </div>
 
 <div align="center">
-  <!-- 替换为稳定国内可用的 Metrics & Streak -->
   <img src="https://metrics.lecoq.io/meoccu?template=classic&config.timezone=Asia%2FShanghai" alt="Metrics" width="49%" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=meoccu&theme=ayu-mirage&hide_border=true" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meoccu&theme=ayu-mirage&hide_border=true" alt="Streak Stats" width="49%" />
 </div>
 
 ---
