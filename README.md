@@ -1,13 +1,10 @@
 ## Hi there 👋
-Hi there 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=🐱+O+Meow+·+meoccu;console.log('Hello,+world!');npm+install+cool+profile;✨+Make+GitHub+pretty+again" alt="Typing SVG" />
 </p>
 
-<!-- 这里替换成你自己真实的头像链接！！！ -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/【你的真实GitHub数字ID】?v=4" width="100" style="border-radius: 50%;" alt="avatar" />
+  <img src="[[https://avatars.githubusercontent.com/u/meoccu?v=4](https://imgnation.oss-cn-hongkong.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-02%20220937.png)](https://imgnation.oss-cn-hongkong.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-02%20220937.png)" width="100" style="border-radius: 50%;" alt="avatar" />
   <br />
   <strong>🐾 O Meow · @meoccu</strong><br />
   热爱优雅的代码与设计，追求实用与美感的平衡。<br />
@@ -19,9 +16,8 @@ Hi there 👋
 ### 📊 GitHub 数据仪表板
 
 <div align="center">
-  <!-- 国内可访问的 stats 镜像 -->
-  <img height="180em" src="https://stats-github.vercel.app/api?username=meoccu&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff00&icon_color=ef4444" />
-  <img height="180em" src="https://stats-github.vercel.app/api/top-langs/?username=meoccu&layout=compact&hide_border=true&langs_count=8&theme=vue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meoccu&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff00&icon_color=ef4444" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meoccu&layout=compact&hide_border=true&langs_count=8&theme=vue" />
 </div>
 
 <div align="center">
