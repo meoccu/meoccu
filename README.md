@@ -50,7 +50,6 @@
 ---
 
 <p align="center">
-  <a href="https://twitter.com/meoccu_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://b23.tv/9Xh8qvJ"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
   <a href="https://dev.to/meoccu"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
 </p>
