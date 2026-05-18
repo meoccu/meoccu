@@ -16,8 +16,8 @@
 ### 📊 GitHub 数据仪表板
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meoccu&show_icons=true&theme=radical&hide_border=true&bg_color=ffffff00&icon_color=ef4444" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meoccu&layout=compact&hide_border=true&langs_count=8&theme=vue" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=meoccu&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&icon_color=ef4444" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meoccu&layout=compact&hide_border=true&langs_count=8&theme=vue" />
 </div>
 
 <div align="center">
