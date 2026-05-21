@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/766e54b38d7c46758ffd3625cd07788abaa12707be9bd1aba46fcd6ba282205c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732d76362e382532307465737465642d3231373539423f7374796c653d666c61742d737175617265266c6f676f3d776f72647072657373" />
 </p>
 <p align="center">
   <!-- 替换为国内可用访客统计，解决 glitch.me 被墙 -->
